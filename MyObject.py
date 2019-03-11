@@ -1,6 +1,6 @@
 class MyObject:
 	def __init__(self):
-		self.x = 1
+		self.x = 2
 		self.a = [1,2,3]
 
 	def getShallowArray(self):
