@@ -1,3 +1,3 @@
 # python-test-travisci
 
-[build status](https://travis-ci.org/dcat52/python-test-travisci.svg?branch=master)
+[![Build status](https://travis-ci.org/dcat52/python-test-travisci.svg?master)](https://travis-ci.org/dcat52)
